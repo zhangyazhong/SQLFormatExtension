@@ -1,0 +1,13 @@
+.vs/
+out/
+build/
+*.dll
+*.exe
+*.metadata_dll
+*.metadata_exe
+*.pdb
+*.lib
+*.obj
+obj/
+bin/
+*.vscode
